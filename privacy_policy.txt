@@ -1,0 +1,53 @@
+Privacy Policy for Jira Issue Copy Helper
+
+Last updated: 11/6/2023
+
+Introduction
+
+This Privacy Policy describes how we collect, use, and share information from users of our browser extension, Jira Issue Copy Helper. We respect your privacy and are committed to protecting your personal information.
+
+Information We Collect
+
+Browsing History: We collect browsing history data to enhance the functionality of our Extension.
+
+Cookies: Our Extension may use cookies to improve user experience, remember user preferences, and analyze how the Extension is used.
+
+User Settings: We collect user settings to personalize and customize the user experience within the Extension, making it more user-friendly.
+
+Other Information: In addition to the above, we may collect other information to improve our Extension's features and functionality. This may include user interactions and feedback.
+
+How We Use Your Information
+
+We may use the collected information for the following purposes:
+
+To provide and maintain the Extension.
+To improve the Extension's features and user experience.
+To personalize your experience.
+To analyze Extension usage.
+To communicate with you regarding Extension updates and support.
+
+Your Choices
+
+Consent: By using the Extension, you consent to the use of your information as outlined in this Privacy Policy.
+
+Opt-Out: You may choose to opt out of certain data collection by adjusting your Extension settings.
+
+Access and Correction: You have the right to access and correct your personal information. You can do so within the Extension settings.
+
+Data Deletion: You can request the deletion of your personal information. Contact us at emreinal@gmail.com for data deletion requests.
+
+Data Security
+
+We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+Contact Us
+
+If you have questions about this Privacy Policy or need assistance with privacy-related matters, please contact us at emreinal@gmail.com.
+
+Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+Effective Date
+
+This Privacy Policy is effective as of 11/6/2023.
